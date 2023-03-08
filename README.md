@@ -1,4 +1,4 @@
-# Weeyn Review Module
+# Weeyn Catalog Review Module
 Weeyn catalog review module
 
 ![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/weeynsoft/catalog-review/php)
@@ -7,7 +7,7 @@ Weeyn catalog review module
 ![GitHub](https://img.shields.io/github/license/weeynsoft/catalog-review)
 
 
-This is the standalone review module of the [Weeyn](https://weeyn.com).
+This is the standalone catalog review module of the [Weeyn](https://weeyn.com).
 
 ## Installation
 
