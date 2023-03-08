@@ -1,26 +1,26 @@
-# Weeyn Category Module
-Weeyn catalog category module
+# Weeyn Review Module
+Weeyn catalog review module
 
-![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/weeynsoft/catalog-category/php)
-![Packagist Version](https://img.shields.io/packagist/v/weeynsoft/catalog-category)
-![Packagist Downloads](https://img.shields.io/packagist/dt/weeynsoft/catalog-category?label=download)
-![GitHub](https://img.shields.io/github/license/weeynsoft/catalog-category)
+![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/weeynsoft/catalog-review/php)
+![Packagist Version](https://img.shields.io/packagist/v/weeynsoft/catalog-review)
+![Packagist Downloads](https://img.shields.io/packagist/dt/weeynsoft/catalog-review?label=download)
+![GitHub](https://img.shields.io/github/license/weeynsoft/catalog-review)
 
 
-This is the standalone category module of the [Weeyn](https://weeyn.com).
+This is the standalone review module of the [Weeyn](https://weeyn.com).
 
 ## Installation
 
 (As Standalone Component)
 
-1. `composer require weeynsoft/catalog-category`
+1. `composer require weeynsoft/catalog-review`
 2. `php artisan vendor:publish --provider="Konekt\Concord\ConcordServiceProvider"`
-3. Add `Weeyn\CatalogCategory\Providers\ModuleServiceProvider::class` to modules in `config/concord.php`
+3. Add `Weeyn\CatalogReview\Providers\ModuleServiceProvider::class` to modules in `config/concord.php`
 4. `php artisan migrate`
 
 ## Usage
 
-See the [Weeyn Category Module Documentation](https://weeyn.com/docs/master/catalog-category) for more details. 
+See the [Weeyn Review Module Documentation](https://weeyn.com/docs/master/catalog-review) for more details. 
 
 ## About Us
 
